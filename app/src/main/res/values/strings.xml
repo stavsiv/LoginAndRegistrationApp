@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginAndRegistrationApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="calendar">calendar</string>
+    <string name="password">password</string>
+    <string name="phone_number">phone_number</string>
+    <string name="register">Register</string>
+    <string name="email">email</string>
+    <string name="registration">registration</string>
+</resources>
